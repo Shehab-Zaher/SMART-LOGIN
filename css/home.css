@@ -1,0 +1,29 @@
+body
+{
+    background-color: #24353F;
+}
+
+h1{
+    color: #17A2B8;
+    font-family: "Titillium Web", sans-serif;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+nav{
+    box-shadow:-5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.welcome
+{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    margin: 0 auto;
+    margin-top: 160px;
+    width: 75%;
+    padding: 50px;
+   
+
+}
